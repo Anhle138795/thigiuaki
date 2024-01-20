@@ -25,7 +25,7 @@
 
 # update by id:
 
-`npx ts-node src/index.ts update --id "0.8273965822811677" --title "111111111" --description "me may beo"`
+`npx ts-node src/index.ts update --id "0.8273965822811677" --title "138795" --description "Bai nay khong kho lam 🐧"`
           
 
 
