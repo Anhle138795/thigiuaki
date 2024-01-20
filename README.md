@@ -1,17 +1,31 @@
-create:
-npx ts-node src/index.ts create --title "Task Title" --description "Task Description"
+## Thi giua ky NodeJs
+## How to run this?
 
-filter-title:
-npx ts-node src/index.ts filter-title --title "Task Title"
+`git clone https://github.com/Anhle138795/thigiuaki.git`
 
-read-all:
-npx ts-node src/index.ts read-all
+# create:
 
-list-async:
-npx ts-node src/index.ts list-async
+`npx ts-node src/index.ts create --title "Task Title" --description "Task Description"`
 
-delete by id:
-npx ts-node src/index.ts update --id "0.8273965822811677"
+# filter-title:
 
-update by id:
-npx ts-node src/index.ts update --id "0.8273965822811677" --title "111111111" --description "me may beo"
+`npx ts-node src/index.ts filter-title --title "Task Title"`
+
+# read-all:
+
+`npx ts-node src/index.ts read-all`
+
+# list-async:
+
+`npx ts-node src/index.ts list-async`
+
+# delete by id:
+
+`npx ts-node src/index.ts update --id "0.8273965822811677"`
+
+# update by id:
+
+`npx ts-node src/index.ts update --id "0.8273965822811677" --title "111111111" --description "me may beo"`
+          
+
+
